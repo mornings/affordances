@@ -1,2 +1,0 @@
-# affordances
-An 'Interventions' project.
